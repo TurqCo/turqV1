@@ -1,2 +1,4 @@
 # TurqV1
 This is the first version of open source model legislation that pays you to contribute.
+
+This Repository is part of the Citizen Powered Model Legislation project. We will be connecting this effort with https://gitcoin.co/ in order to create an incentive structure for collaborative legislation. This is an MVP for a full platform which will create a market for creating model legislation. This market will create an alternative to the conventional method of creating model legislation which is through think tanks and lobbiest organizations. When YouTube first started anyone could upload videos, so to can anyone create model legislation. It was YouTube's Partner Program which created a market for video content and enabled any individual or organization to earn revenue for such video uploads. We are seeking to do for creating model legislation what YouTube did for creating video content. Let's go on this journey together.
