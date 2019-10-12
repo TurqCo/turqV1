@@ -24,20 +24,21 @@
 
 ## Section 4 PROVISIONS
 
-    1. Subsection 1 - All cryptocurrencies shall be classified as a currency for purposes of all applicable regulation, taxation, or oversight in any given jurisdiction.
-        a. Exchange of cryptocurrencies between any two individuals shall only be taxed where there is a taxable event related to gross income such as one individual paying another a salary or remuneration for serviced rendered
+    1. Subsection 1 - All cryptocurrencies shall be classified as a currency for purposes of all applicable regulation, taxation, or oversight in any given jurisdiction, except where specified below:
+        a. Exchange of cryptocurrencies between any two individuals shall only be taxed where there is a taxable event related to gross income or capital gains such as one individual paying another a salary, remuneration for serviced rendered, or a dividend paid in the form of a cryptocurrency
         b. Exchange of one cryptocurrency for another by an individual resulting in a net earning $600 or greater shall be taxed as a capital gain
         c. Exchange of one cryptocurrency for another by an individual resulting in a net earning less than $600 shall be excluded from capital gains tax calculations
+        d. Income and revenue reported in cryptocurrencies shall receive the same tax treatment as income or revenue reported in US dollars, following whatever existing tax law is applicable for the reporting entity, whether limited liability corporation, partnership, individual, or other legal entity.
     2. Subsection 2 - All cryptocurrencies shall not be subject to regulations or statutes regarding the exchange or ownership of securities, or of the taxation of any income derived from sale of said securities.
-
     3. Subsection 3 - All cryptocurrencies shall not be subject to regulations or statutes regarding the exchange, sale, or ownership of real property. 
 
 ## Section 5 SPECIAL EXCEPTIONS
 
     1. Subsection 1 - The following token types are excluded from the provisions in Section 4 of this bill:
         - Tokens associated with a company's rewards/loyalty program
-        - Tokens specifically designated as representing a security or that can reasonably be understood to be redeemable for a security
+        - Tokens, especially "security tokens," specifically designated as representing a security or that can reasonably be understood to be redeemable for a security
     2. Subsection 2 - Cryptocurrencies where more than 51% of the tokens are held by a single individual, group, or entity shall be excluded from the provisions in Section 4 of this bill. 
+    3. Subsection 3 - Any software, algorithm, or other system, often referred to as a "smart contract," not specifically implemented for the issuance or governance of a cryptocurrency as defined in Section 2 is excluded from the provisions in Section 4 of this bill.
 
 ## Section 6 OTHER PROVISIONS
 
