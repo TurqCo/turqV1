@@ -39,7 +39,7 @@ This legislation is designed to provide both financial literacy education and th
 
 2. This legislation complies with the recommendation set forth by the National Association of State Boards of Education (NASBE) issued in **Who Will Own Our Children? The Report of the NASBE Commission on Financial and Investor Literacy** (McCormick).
 
-State boards of education must be fully informed
+* State boards of education must be fully informed
 about the status of financial literacy in their states.
 
 * States should consider financial literacy and investor education as a basic feature of K–12 education.
