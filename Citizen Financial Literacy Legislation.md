@@ -108,10 +108,6 @@ National Assessment of Educational Progress
 * Stocks and investing
 * Retirement planning
 
-6. Massachusetts State standardized testing shall be altered to include assessment of financial literacy knowledge through out the K through 12 educational cycle.  Results should be made available in an interstate cooperative with other State Boards of Education.
-
-7. A board of members from key organizations and industries should be formed by the State Board of Education to inform upon the matters of curriculum relevancy is it relates to current trends and states of affairs in daily financial management and investing.
-
 ## SECTION 5 - SPECIAL EXCEPTIONS
 
 1. Private Schools are exempt from this legislation.
@@ -145,7 +141,11 @@ eighteen years of age.
 
 7.  The administration specifics of this legislation shall be left to the Massachusetts State Board of Education or qualified designated agents pursuant to meeting the minimums laid out in this legislation.  Tracking and proof of implementation record keeping is required for the purpose of State and Federal audits and should be retained for a period of ten years.
 
-8. Re-evaluation of the efficacy of financial literacy curriculum should be commissioned by the Massachusetts State Board of Education no less than once every ten years.
+8. Massachusetts State standardized testing shall be altered to include assessment of financial literacy knowledge through out the K through 12 educational cycle.  Results should be made available in an interstate cooperative with other State Boards of Education.
+
+9. A board of members from key organizations and industries should be formed by the State Board of Education to inform upon the matters of curriculum relevancy is it relates to current trends and states of affairs in daily financial management and investing.
+
+10. Re-evaluation of the efficacy of financial literacy curriculum should be commissioned by the Massachusetts State Board of Education no less than once every ten years.
 
 ## SECTION 7 - REFERENCES
 
