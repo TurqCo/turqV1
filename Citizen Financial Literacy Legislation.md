@@ -1,6 +1,10 @@
 # CITIZEN LEGISLATION FOR FINANCIAL LITERACY IN MASSACHUSETTS
 
-## SECTION 1  - DEFINITIONS
+## SECTION 1 - FINANCIAL LITERACY EDUCATION IN MASSACHUSETTS
+
+This document specifies minimum requirements for the implementation of a financial literacy education program in the public schools of the Commonwealth of Massachusetts.
+
+## SECTION 2  - DEFINITIONS
 
 **Public School** - A school that is located in the Commonwealth of Massachusetts and maintained at public expense, including state, local, and federal funding, for the education of the children of a community or district and that constitutes a part of a system of free public education commonly including primary and secondary schools.
 
@@ -18,7 +22,7 @@
 
 **Special Education** - Student group or academics relating to the development of pupils with disabilities as defined by the Americans with Disabilities Act (ADA).
 
-## SECTION 2 - STATEMENT OF PURPOSE
+## SECTION 3 - STATEMENT OF PURPOSE
 
 There is extensive debate regarding the efficacy of financial literacy education and the 
 correlation between applied knowledge of personal finance best known methods and overall good financial health/satisfaction.  There has been very little data collection with enough participants over a long enough time to make effective causal correlation between financial literacy education and long term financial behavior (Robb).
@@ -29,7 +33,7 @@ This legislation commissions the creation of an opt-in voluntary study in which 
 
 This legislation is designed to provide both financial literacy education and the means to populate good data for evaluating the efficacy of financial literacy education over long-term periods, into adult life.  The goal is to find enough data to evaluate the causality between financial literacy education and good financial habits with respect to a wide set of demographic data in real world scenarios.
 
-## SECTION 3 - PROVISIONS
+## SECTION 4 - PROVISIONS
 
 1. This legislation applies to all Massachusetts Public and Charter Schools that receive public federal funding in the Commonwealth of Massachusetts.
 
@@ -108,13 +112,13 @@ National Assessment of Educational Progress
 
 7. A board of members from key organizations and industries should be formed by the State Board of Education to inform upon the matters of curriculum relevancy is it relates to current trends and states of affairs in daily financial management and investing.
 
-## SECTION 4 - SPECIAL EXCEPTIONS
+## SECTION 5 - SPECIAL EXCEPTIONS
 
 1. Private Schools are exempt from this legislation.
 
 2. Special Education curriculum and instruction are exempt from this legislation.
 
-## SECTION 5 - OTHER PROVISIONS
+## SECTION 6 - OTHER PROVISIONS
 
 1. A position on the Massachusetts State Board of Education shall be created to act as a liaison between the United States Department of Education and other State Boards of Education as it pertains to the education of financial literacy.  This includes but is not limited to proliferating standardized assessment and standardized best known method infrastructure for financial literacy instruction.
 
@@ -143,7 +147,7 @@ eighteen years of age.
 
 8. Re-evaluation of the efficacy of financial literacy curriculum should be commissioned by the Massachusetts State Board of Education no less than once every ten years.
 
-## SECTION 6 - REFERENCES
+## SECTION 7 - REFERENCES
 
 * Robb, Cliff A. and Woodyard, Ann, Financial Knowledge and Best Practice Behavior (2011). Journal of Financial Counseling and Planning, Vol. 22, No. 1, 2011. Available at SSRN: https://ssrn.com/abstract=2061308
 
